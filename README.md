@@ -1,6 +1,5 @@
 # Lane Lines Detection Project 
-## Author
-Mohammad Khallaghi - 810192581
+
 ## Overview
 Detecting lane lines in images or videos using python and opencv. 
 This project is a solution for lane line detection project of self-driving car nano degree course in Udacity. 
