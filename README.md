@@ -89,3 +89,7 @@ The responsibility of `lane_lines` function is to return average detected lines 
 
 
 ![](Lane%20Lines%20Detection%20Project/solidWhiteCurve%206.jpg)
+
+## Other Solutions
+Here is one other solution that I complete some part of this project using this repo.
+https://github.com/naokishibuya/car-finding-lane-lines
